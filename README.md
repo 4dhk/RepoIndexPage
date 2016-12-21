@@ -14,7 +14,7 @@
 
 
 # Repository 目录 
-##### [ Android  ](AndroidComponent.md/)
+##### [ Android  ](Android.md/)
 主要是整理了跟Android 相关的技术文档，component等。
 
 
