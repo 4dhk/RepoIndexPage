@@ -14,13 +14,13 @@
 
 
 # Repository 目录 
-##### [ Android  ](AndroidComponent.md/)
+##### [ Android](AndroidComponent.md)
 主要是整理了跟Android 相关的技术文档，component等。
 
 
-##### [ IOS  ](IOS.md/)
+##### [IOS](IOS.md)
 主要是整理了跟IOS 相关的技术文档，component等。
 
 
-##### [ NoteJs](NoteJs.md/)
+##### [NoteJs](NoteJs.md)
 主要是整理了跟NoteJs相关。
