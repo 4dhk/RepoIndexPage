@@ -10,17 +10,17 @@
 
 - [GitHub上README写法暨markdown语法解读](http://www.tuicool.com/articles/zIJrEjn)
 
-- [Markdown插入图片](hhttp://note.youdao.com/share/?id=b0e1ef3fc4a901199edfb82bc56d5376&type=note#/)
+- [Markdown插入图片](http://note.youdao.com/share/?id=b0e1ef3fc4a901199edfb82bc56d5376&type=note#/)
 
 
 # Repository 目录 
-##### [ Android  ](Android.md/)
+
+##### [ Android](Android.md)
 主要是整理了跟Android 相关的技术文档，component等。
 
-
-##### [ IOS  ](IOS.md/)
+##### [IOS](IOS.md)
 主要是整理了跟IOS 相关的技术文档，component等。
 
 
-##### [ NoteJs](NoteJs.md/)
+##### [NoteJs](NoteJs.md)
 主要是整理了跟NoteJs相关。
