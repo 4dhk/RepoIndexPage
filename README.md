@@ -10,7 +10,7 @@
 
 - [GitHub上README写法暨markdown语法解读](http://www.tuicool.com/articles/zIJrEjn)
 
-- [Markdown插入图片](hhttp://note.youdao.com/share/?id=b0e1ef3fc4a901199edfb82bc56d5376&type=note#/)
+- [Markdown插入图片](http://note.youdao.com/share/?id=b0e1ef3fc4a901199edfb82bc56d5376&type=note#/)
 
 
 # Repository 目录 
