@@ -1,5 +1,9 @@
 # Android常见组件
 
+#### [組件動畫 AndroidViewAnimations](https://github.com/4dhk/AndroidViewAnimations)
+![image](https://camo.githubusercontent.com/c41223966bdfed2260dbbabbcbae648e5db542c6/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f3631306463303334677731656a37356d69327737376732306333306a623471722e676966)
+
+
 #### [FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout)
 Android TabLayout库
 
