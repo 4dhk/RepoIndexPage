@@ -23,7 +23,8 @@ Android TabLayout库
 
 #### [Fragmentation](https://github.com/4dhk/Fragmentation) 
 - Fragment之我的解决方案
-![image](https://github.com/4dhk/Fragmentation/edit/master/gif/demo.gif) 
+
+![image](http://upload-images.jianshu.io/upload_images/937851-23ae58f2b4d13842.gif?imageMogr2/auto-orient/strip) 
 
 # Android studio 常用工具
 
