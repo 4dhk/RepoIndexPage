@@ -23,8 +23,8 @@ Android TabLayout库
 
 #### [Fragmentation](https://github.com/4dhk/Fragmentation) 
 - Fragment之我的解决方案
-<img src="/gif/demo.gif" width="280px"/>&emsp;<img src="/gif/wechat.gif" width="280px"/>
-&emsp;<img src="/gif/nested.gif" width="280px"/>
+<img src="https://github.com/4dhk/Fragmentation/edit/master/gif/demo.gif" width="280px"/>&emsp;<img src="https://github.com/4dhk/Fragmentation/edit/master/gif/wechat.gif" width="280px"/>
+&emsp;<img src="https://github.com/4dhk/Fragmentation/edit/master/gif/nested.gif" width="280px"/>
 
 # Android studio 常用工具
 
