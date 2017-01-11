@@ -21,6 +21,10 @@ Android TabLayout库
 #### [Calligraphy](https://github.com/4dhk/Calligraphy)
 - 用于通过style快速修改app字体
 
+#### [Fragmentation](https://github.com/4dhk/Fragmentation) 
+- Fragment之我的解决方案
+<img src="/gif/demo.gif" width="280px"/>&emsp;<img src="/gif/wechat.gif" width="280px"/>
+&emsp;<img src="/gif/nested.gif" width="280px"/>
 
 # Android studio 常用工具
 
