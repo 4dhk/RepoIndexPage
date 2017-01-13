@@ -26,6 +26,9 @@ Android TabLayout库
 
 ![image](http://upload-images.jianshu.io/upload_images/937851-23ae58f2b4d13842.gif?imageMogr2/auto-orient/strip) 
 
+
+#### [Integrate_Google_GcmFcmAndMap](https://github.com/4dhk/Integrate_Google_GcmFcmAndMap) 
+- GCM & FMC & google map 添加 及常见问题处理方法
 # Android studio 常用工具
 
 
