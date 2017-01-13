@@ -26,11 +26,29 @@ Android TabLayout库
 
 ![image](http://upload-images.jianshu.io/upload_images/937851-23ae58f2b4d13842.gif?imageMogr2/auto-orient/strip) 
 
-
-#### [Integrate_Google_GcmFcmAndMap](https://github.com/4dhk/Integrate_Google_GcmFcmAndMap) 
-- GCM & FMC & google map 添加 及常见问题处理方法
 # Android studio 常用工具
 
 
+# Android studio 插件
+
+#### [Android ButterKnife Zelezny](https://github.com/avast/android-butterknife-zelezny)
+
+Simple plug-in for Android Studio/IDEA that allows one-click creation of [Butterknife](http://jakewharton.github.io/butterknife/) view injections.
+
+#### [Android Drawable Importer](https://plugins.jetbrains.com/idea/plugin/7658-android-drawable-importer)
+
+This plugin consists of three main features. You can access them by a right-click anywhere, but not on a file, inside an Android module under New. 
+
+#### [GsonFormat](https://github.com/zzz40500/GsonFormat)
+
+This is a plugin you can generate Json model from Json String. Please do aware This Plugin is only for Android Studio and IntelliJ IDEA.
+
+#### [Android Parcelable code generateor]()
+
+Plugin which generates Android Parcelable boilerplate code for you.
+
+#### [Sexy Editor](https://github.com/igorspasic/idea-sexyeditor)
+
+Make your IDE editor sexy by putting an image in the editor background :) Use different image(s) for different file sets, on various positions, in random mode, or even in slide-show mode!
 
 # Our Component
